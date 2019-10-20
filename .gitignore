@@ -1,0 +1,8 @@
+/*.cscope_file_list
+/*.depend
+/*.layout
+/obj/Debug/*.o
+*.o
+*.save-failed
+/bin/Release
+/bin/Debug
